@@ -26,6 +26,5 @@ public class DeliveryAgentService {
         da.setMobileNo(mobileNo);
         return da;
     }
-
     }
 
