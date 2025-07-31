@@ -10,9 +10,7 @@ import com.using.array.service.RestaurantService;
 
 import java.util.Scanner;
 public class BookingOrderManagement {
-
     private static Scanner sc = new Scanner(System.in);
-
     public static void main(String[] args) {
         CustomerService customerService = new CustomerService();
 
