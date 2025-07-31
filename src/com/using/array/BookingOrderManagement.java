@@ -38,6 +38,7 @@ public class BookingOrderManagement {
             }
             switch (option) {
                 case 2:
+
                     DeliveryAgentService deliveryAgentService = new DeliveryAgentService();
                     DeliveryAgent deliveryAgent = new DeliveryAgent();
                     System.out.println("DeliveryAgent created : " + deliveryAgent);

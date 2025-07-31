@@ -3,7 +3,7 @@ import com.using.array.model.DeliveryAgent;
 import java.util.Scanner;
 
 public class DeliveryAgentService {
-    private DeliveryAgent createDeliveryAgent(){
+     public DeliveryAgent createDeliveryAgent(){
 
         Scanner sc = new Scanner(System.in);
 
